@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,ai,php,py,laravel,flask,mongodb,mysql,git,react&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ai,php,py,laravel,flask,mongodb,mysql,git,react&perline=7)
 <p>
   <img
     align="center"
